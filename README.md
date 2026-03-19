@@ -20,11 +20,11 @@ The dataset used in this analysis consists of 2,392 observations and was obtaine
 
 Data quality assessment indicated that:
 
-There are no missing values
+*There are no missing values
 
-No duplicate records were identified
+*No duplicate records were identified
 
-All variables fall within reasonable and valid ranges
+*All variables fall within reasonable and valid ranges
 
 
 
@@ -61,19 +61,27 @@ tidyverse
 
 ## Overview
 
-This project analyzes the relationship between students’ weekly study time and GPA using a linear regression model.
+This project was conducted as part of Data Science course , The study aims to examine the relationship between students’ weekly study time and their academic performance, measured by Grade Point Average (GPA), using a linear regression approach.
 
 ## Objective
 
-To determine whether study time has a significant effect on GPA.
+The primary objective of this study is to determine whether weekly study time has a statistically significant effect on students’ GPA and to quantify the strength of this relationship.
 
-* Independent Variable: StudyTimeWeekly
-* Dependent Variable: GPA
+*Independent Variable: StudyTimeWeekly
+
+*Dependent Variable: GPA
 
 ## Dataset
 
-The dataset contains 2,392 observations of student performance.
-No missing values or data issues were found, so no preprocessing was required 
+The dataset used in this analysis consists of 2,392 observations and was obtained from an online source (Kaggle: https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+
+Data quality assessment indicated that:
+
+*There are no missing values
+
+*No duplicate records were identified
+
+*All variables fall within reasonable and valid ranges
 
 ## Methodology
 
@@ -82,13 +90,6 @@ No missing values or data issues were found, so no preprocessing was required
 * Correlation analysis
 * Linear regression model
 
-## Results
-
-* Correlation: 0.179 (weak positive relationship)
-* R²: 0.032
-* RMSE: ≈ 0.90
-
-Study time has a statistically significant but weak effect on GPA 
 
 ## Conclusion
 
@@ -99,9 +100,4 @@ Study time slightly improves GPA, but it is not a strong predictor. Other factor
 * R
 * RStudio
 * tidyverse
-
-## Authors
-
-* Your Name
-* Team Members
 
