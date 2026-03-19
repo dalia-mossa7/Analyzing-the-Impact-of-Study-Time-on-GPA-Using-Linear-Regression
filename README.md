@@ -7,23 +7,30 @@ Objective:
 The primary objective of this study is to determine whether weekly study time has a statistically significant effect on students’ GPA and to quantify the strength of this relationship.
 
 Independent Variable: StudyTimeWeekly
+
 Dependent Variable: GPA
 
 Dataset:
 
 The dataset used in this analysis consists of 2,392 observations and was obtained from an online source (Kaggle: https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+
 Data quality assessment indicated that:
 
 There are no missing values
+
 No duplicate records were identified
+
 All variables fall within reasonable and valid ranges
 
 
 Methodology:
 
 Data exploration using summary statistics
+
 Visualization (scatter plot, density plots, boxplots)
+
 Correlation analysis
+
 Linear regression model
 
 
@@ -33,5 +40,7 @@ Study time slightly improves GPA, but it is not a strong predictor. Other factor
 
 Tools:
 R
+
 RStudio
+
 tidyverse
