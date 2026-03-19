@@ -48,6 +48,6 @@ Study time slightly improves GPA, but it is not a strong predictor. Other factor
 
 Tools:
 
-R
-RStudio
-tidyverse
+R 
+RStudio 
+tidyverse 
