@@ -46,8 +46,62 @@ Conclusion:
 Study time slightly improves GPA, but it is not a strong predictor. Other factors likely have a greater impact on academic performance.
 
 
+
 Tools:
 
 R 
+
 RStudio 
+
 tidyverse 
+
+
+
+# Impact of Study Time on GPA
+
+## Overview
+
+This project analyzes the relationship between students’ weekly study time and GPA using a linear regression model.
+
+## Objective
+
+To determine whether study time has a significant effect on GPA.
+
+* Independent Variable: StudyTimeWeekly
+* Dependent Variable: GPA
+
+## Dataset
+
+The dataset contains 2,392 observations of student performance.
+No missing values or data issues were found, so no preprocessing was required 
+
+## Methodology
+
+* Data exploration using summary statistics
+* Visualization (scatter plot, density plots, boxplots)
+* Correlation analysis
+* Linear regression model
+
+## Results
+
+* Correlation: 0.179 (weak positive relationship)
+* R²: 0.032
+* RMSE: ≈ 0.90
+
+Study time has a statistically significant but weak effect on GPA 
+
+## Conclusion
+
+Study time slightly improves GPA, but it is not a strong predictor. Other factors likely have a greater impact on academic performance.
+
+## Tools
+
+* R
+* RStudio
+* tidyverse
+
+## Authors
+
+* Your Name
+* Team Members
+
