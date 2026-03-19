@@ -9,9 +9,8 @@ This project was conducted as part of Data Science course , The study aims to ex
 
 The primary objective of this study is to determine whether weekly study time has a statistically significant effect on students’ GPA and to quantify the strength of this relationship.
 
-*Independent Variable: StudyTimeWeekly
-
-*Dependent Variable: GPA
+* Independent Variable: StudyTimeWeekly
+* Dependent Variable: GPA
 
 ## Dataset
 
